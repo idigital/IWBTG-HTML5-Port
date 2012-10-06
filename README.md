@@ -1,7 +1,7 @@
 IWBTG HTML5 Port
 ================
 
-This project is in a really early state.  
+This project is in an early state.  
 The purpose of this project for me is to understand certain game mechanics and try to get the best performance out of HTML5's canvas.  
 
 **It uses no libraries whatsoever.**  
