@@ -19,6 +19,12 @@ Right now it runs quite well (60fps) on my old android device.
 
 ####Live Demo: http://elias-schuett.de/git/IWBTG-HTML5-Port
 
+######Controls:
+
+  * WASD / Arrows: Move
+  * SPACE: Jump
+  * Shift: Shoot
+
 ----
 
 ####Original Game: http://kayin.pyoko.org/iwbtg/
