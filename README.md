@@ -1,5 +1,5 @@
 IWBTG HTML5 Port
-======================
+================
 
 This project is in a really early state.  
 The purpose of this project for me is to understand certain game mechanics and try to get the best performance out of HTML5's canvas.  
@@ -17,14 +17,23 @@ Right now it runs quite well (60fps) on my old android device.
 
 ----
 
-####Live Demo: http://elias-schuett.de/git/IWBTG-HTML5-Port
+#### Live Demo: http://elias-schuett.de/git/IWBTG-HTML5-Port
 
-######Controls:
+###### Controls:
 
   * WASD / Arrows: Move
-  * SPACE: Jump
+  * Space: Jump
   * Shift: Shoot
 
 ----
 
-####Original Game: http://kayin.pyoko.org/iwbtg/
+#### Next Step
+
+  * Implement entitie class
+  * Implement map loading
+
+**I will be using me recently created and active project [Online-Tile-Map-Editor](https://github.com/elias94xx/Online-Tile-Map-Editor)**
+
+----
+
+#### Original Game: http://kayin.pyoko.org/iwbtg/
