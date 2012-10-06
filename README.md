@@ -32,7 +32,7 @@ Right now it runs quite well (60fps) on my old android device.
   * Implement entitie class
   * Implement map loading
 
-**I will be using me recently created and active project [Online-Tile-Map-Editor](https://github.com/elias94xx/Online-Tile-Map-Editor)**
+**I will be using me recently created and active editor project: [Online-Tile-Map-Editor](https://github.com/elias94xx/Online-Tile-Map-Editor)**
 
 ----
 
