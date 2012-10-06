@@ -18,3 +18,7 @@ Right now it runs quite well (60fps) on my old android device.
 ----
 
 ####Live Demo: http://elias-schuett.de/git/IWBTG-HTML5-Port
+
+----
+
+####Original Game: http://kayin.pyoko.org/iwbtg/
