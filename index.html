@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>2d Game Template</title>
+		<style type="text/css">
+			* { margin: 0px; padding: 0px; }
+
+			body {
+				width: 800px;
+				margin: 10% auto 0px auto;
+				font-family: Arial;
+				background-color: #FFF;
+			}
+
+			#debug {
+				position: absolute;
+				color: #000;
+			}
+			
+			canvas {
+
+			}
+		</style>
+		<script type="text/javascript" src="js/lib.js"></script>
+		<script type="text/javascript" src="js/core.js"></script>
+
+	</head>
+
+	<body>
+		<div id="debug">
+			<span id="fps">FPS: ...</span><br/>
+			<span id="delta">Delta: ...</span>
+		</div>
+
+		<canvas id="canvas" width="800" height="600"></canvas>
+	</body>
+</html>
